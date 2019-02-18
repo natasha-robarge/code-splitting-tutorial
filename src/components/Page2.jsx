@@ -2,7 +2,7 @@ import React from 'react';
 import logo from '../logo.svg';
 
 const Page2 = ({ onRouteChange }) => 
-    <div class="App">
+    <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1 className="App-title">Welcome to Page 2</h1>
@@ -11,4 +11,4 @@ const Page2 = ({ onRouteChange }) =>
       <button onClick={() => onRouteChange('page3')}>Page3</button>
     </div>
 
-export { Page2 };
+export default Page2;
