@@ -1,3 +1,5 @@
+## This is a repo for a Code Splitting Tutorial to learn more about optimizing performance
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
